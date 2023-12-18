@@ -9,9 +9,9 @@
 
 <h2>So, I will show you what kind of power that i had <img src="https://media.giphy.com/media/xcUOXFRfN888SGvbOt/giphy.gif" width="50"/></h2>
 <span>
-<img width="150" src="https://preview.redd.it/shall-we-consider-this-new-logo-v0-k3b8cs0ob8ya1.jpg?auto=webp&s=427c820123dc5af6297224783f143db2077b0c69"/>
+<img width="250" src="https://preview.redd.it/shall-we-consider-this-new-logo-v0-k3b8cs0ob8ya1.jpg?auto=webp&s=427c820123dc5af6297224783f143db2077b0c69"/>
 <img src="https://i.redd.it/9odfz0kwy2i21.jpg" width="250"/>
-<img src="https://pbs.twimg.com/media/EzRewP5VUAowWoN.png" width="150"/>
+<img src="https://pbs.twimg.com/media/EzRewP5VUAowWoN.png" width="250"/>
 <span>
 <!--
 **nyxsr/nyxsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
