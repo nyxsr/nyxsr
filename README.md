@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nyxsr/nyxsr/refs/heads/main/Amber%20Glass%20Interface%20Panels.png" alt="Amber-lit glass panels representing the frontend, API, and database" width="100%">
+</p>
+
 <h1 align="center">Sahrul Ramdan</h1>
 
 <p align="center">
